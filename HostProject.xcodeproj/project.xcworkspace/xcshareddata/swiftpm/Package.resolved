@@ -1,0 +1,15 @@
+{
+  "originHash" : "69e20dc94a63d87b74151484564608977d4992653b487c682f2286992b595583",
+  "pins" : [
+    {
+      "identity" : "remotepackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pforstman/RemotePackage",
+      "state" : {
+        "revision" : "9dfe95ca8dfe1cd9474342ab126898c1a4975c79",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 3
+}
